@@ -34,8 +34,6 @@ table {
   }
 }
 
-a { font-weight: bold;
-}
 table.table a {
   color: var(--global-theme-color);
 
@@ -203,6 +201,7 @@ blockquote {
 
   a {
     color: inherit;
+    font-weight: bold;
 
     &:hover {
       color: var(--global-theme-color);
