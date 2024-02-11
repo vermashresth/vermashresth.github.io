@@ -15,6 +15,10 @@ em,
 div,
 li,
 span,
+::selection {
+  color: red;
+  background: yellow;
+}
 strong {
   color: var(--global-text-color);
 }
