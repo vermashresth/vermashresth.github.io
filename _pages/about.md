@@ -18,4 +18,8 @@ I am a first-year PhD student at Harvard University advised by [Prof. Milind Tam
 
 Previously, I spent two wonderful years at [Google Research India](https://research.google/locations/india/), working in the [AI for Social Good lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) where I was grateful to be advised by [Dr. Aparna Taneja](https://research.google/people/aparna-taneja/). I developed robust bandit algorithms for planning targeted health interventions which in turn improve health literacy and medical adherence in underserved communities in India. 
 
-Before that, I was a Data Scientist at United Health Group where I worked in the Chief Medical Officer's team for modeling readmission risks for millions of beneficiaries.
+Before that, I was a Data Scientist at [United Health Group](https://www.unitedhealthgroup.com/people-and-businesses/businesses/optum.html) where I worked in the Chief Medical Officer's team for modeling readmission risks for millions of beneficiaries. I also developed tools to visualize patient's wellness journey using data obtained from the world's [largest healthcare graph database](https://info.tigergraph.com/keynote-edward-sverdlin).
+
+
+![Harvard University](Harvard_University_shield.png) ![Google Research](google-ai-meta-removebg-preview.png) ![UnitedHealth Group](UnitedHealth-Group-Logo.png)
+
