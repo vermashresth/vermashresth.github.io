@@ -6,8 +6,8 @@
 // Colors
 $cream-color:         #F8F8F8 !default;
 $soft-green:          #6F9987 !default;
-$soft-brown:          #D67F54 !default;
-$light-soft-brown:    rgba($soft-brown, 0.3);
+$soft-brown:          #f9f1df !default;
+$light-soft-brown:    lighten(rgba($soft-brown, 0.7), 25%);
 $red-color:           #FF3636 !default;
 $red-color-dark:      #B71C1C !default;
 $orange-color:        #F29105 !default;
