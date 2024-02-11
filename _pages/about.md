@@ -20,17 +20,18 @@ Previously, I spent two wonderful years at [Google Research India](https://resea
 
 Before that, I was a Data Scientist at [United Health Group](https://www.unitedhealthgroup.com/people-and-businesses/businesses/optum.html) where I worked in the Chief Medical Officer's team for modeling readmission risks for millions of beneficiaries. I also developed tools to visualize patient's wellness journey using data obtained from the world's [largest healthcare graph database](https://info.tigergraph.com/keynote-edward-sverdlin).
 
-
-<table border="0" cellpadding="0" cellspacing="0">
+<div style="text-align: center;">
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0;">
   <tr>
-    <td><img src="/assets/img/Harvard_University_shield.png" style="width: 150px" alt="Image 1"></td>
-    <td><img src="/assets/img/google-ai-meta-removebg-preview (1).png" style="width: 300px" alt="Image 2"></td>
-    <td><img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 200px" alt="Image 3"></td>
+    <td align="center"><img src="/assets/img/Harvard_University_shield.png" style="width: 120px" alt="Image 1"></td>
+    <td align="center"><img src="/assets/img/google-ai-meta-removebg-preview (1).png" style="width: 260px" alt="Image 2"></td>
+    <td align="center"><img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 180px" alt="Image 3"></td>
   </tr>
   <tr>
-    <td align="center">2023-Present</td>
-    <td align="center">2020-2023</td>
-    <td align="center">2019-2020</td>
+    <td align="center">2023 - Present</td>
+    <td align="center">2020 - 2023</td>
+    <td align="center">2019 - 2020</td>
   </tr>
 </table>
+</div>
 
