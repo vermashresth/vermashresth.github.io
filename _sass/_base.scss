@@ -201,6 +201,7 @@ blockquote {
 
   a {
     color: inherit;
+    text-decoration: underline;
 
     &:hover {
       color: var(--global-theme-color);
@@ -534,7 +535,7 @@ footer.sticky-bottom {
 
     a {
       color: var(--global-text-color);
-      text-decoration: none;
+      text-decoration: underline;
 
       &:hover {
         color: var(--global-theme-color);
