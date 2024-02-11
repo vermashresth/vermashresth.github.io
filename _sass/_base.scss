@@ -17,7 +17,7 @@ li,
 span,
 ::selection {
   color: red;
-  background: yellow;
+  background: var(--global-text-color);
 }
 strong {
   color: var(--global-text-color);
