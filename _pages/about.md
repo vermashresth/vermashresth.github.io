@@ -26,9 +26,9 @@ Before that, I was a Data Scientist at [United Health Group](https://www.unitedh
 }
 <style>
 <div class="image-container">
-    <img src="/assets/img/Harvard_University_shield.png" style="width: 33.33%;">
-     <img src="/assets/img/google-ai-meta-removebg-preview.png" style="width: 33.33%;">
-      <img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 33.33%;">
+    <img src="/assets/img/Harvard_University_shield.png" style="width: 60px">
+     <img src="/assets/img/google-ai-meta-removebg-preview.png" style="width: 120px">
+      <img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 120px">
   
 </div>
 
