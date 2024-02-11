@@ -21,10 +21,16 @@ Previously, I spent two wonderful years at [Google Research India](https://resea
 Before that, I was a Data Scientist at [United Health Group](https://www.unitedhealthgroup.com/people-and-businesses/businesses/optum.html) where I worked in the Chief Medical Officer's team for modeling readmission risks for millions of beneficiaries. I also developed tools to visualize patient's wellness journey using data obtained from the world's [largest healthcare graph database](https://info.tigergraph.com/keynote-edward-sverdlin).
 
 
-<div class="image-container">
-    <img src="/assets/img/Harvard_University_shield.png" style="width: 120px">
-     <img src="/assets/img/google-ai-meta-removebg-preview.png" style="width: 400px">
-      <img src="/assets/img/UnitedHealth-Group-Logo-1977.png" style="width: 260px">
-  
-</div>
+<table border="1">
+  <tr>
+    <td style="width: 33.33%;"><img src="/assets/img/Harvard_University_shield.png" alt="Image 1"></td>
+    <td style="width: 33.33%;"><img src="/assets/img/google-ai-meta-removebg-preview.png" alt="Image 2"></td>
+    <td style="width: 33.33%;"><img src="/assets/img/UnitedHealth-Group-Logo-1977.png" alt="Image 3"></td>
+  </tr>
+  <tr>
+    <td>Text 1</td>
+    <td>Text 2</td>
+    <td>Text 3</td>
+  </tr>
+</table>
 
