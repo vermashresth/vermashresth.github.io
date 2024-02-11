@@ -24,13 +24,13 @@ Before that, I was a Data Scientist at [United Health Group](https://www.unitedh
 <table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0;">
   <tr>
     <td align="center"><img src="/assets/img/Harvard_University_shield.png" style="width: 100px" alt="Image 1"></td>
-    <td align="center"><img src="/assets/img/google-ai-meta-removebg-preview (1).png" style="width: 200px" alt="Image 2"></td>
-    <td align="center"><img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 120px" alt="Image 3"></td>
+    <td align="center"><img src="/assets/img/google-ai-meta-removebg-preview (1).png" style="width: 220px" alt="Image 2"></td>
+    <td align="center"><img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 140px" alt="Image 3"></td>
   </tr>
   <tr>
     <td align="center">2023 - Present</td>
-    <td align="center">2020 - 2023</td>
-    <td align="center">2019 - 2020</td>
+    <td align="center">2021 - 2023</td>
+    <td align="center">2020 - 2021</td>
   </tr>
 </table>
 </div>
