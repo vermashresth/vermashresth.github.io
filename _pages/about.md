@@ -28,9 +28,9 @@ Before that, I was a Data Scientist at [United Health Group](https://www.unitedh
     <td><img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 200px" alt="Image 3"></td>
   </tr>
   <tr>
-    <td>2023-Present</td>
-    <td>2020-2023</td>
-    <td>2019-2020</td>
+    <td align="center">2023-Present</td>
+    <td align="center">2020-2023</td>
+    <td align="center">2019-2020</td>
   </tr>
 </table>
 
