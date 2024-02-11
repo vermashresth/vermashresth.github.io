@@ -23,9 +23,9 @@ Before that, I was a Data Scientist at [United Health Group](https://www.unitedh
 <div style="text-align: center;">
 <table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0;">
   <tr>
-    <td align="center"><img src="/assets/img/Harvard_University_shield.png" style="width: 120px" alt="Image 1"></td>
-    <td align="center"><img src="/assets/img/google-ai-meta-removebg-preview (1).png" style="width: 260px" alt="Image 2"></td>
-    <td align="center"><img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 180px" alt="Image 3"></td>
+    <td align="center"><img src="/assets/img/Harvard_University_shield.png" style="width: 100px" alt="Image 1"></td>
+    <td align="center"><img src="/assets/img/google-ai-meta-removebg-preview (1).png" style="width: 200px" alt="Image 2"></td>
+    <td align="center"><img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 100px" alt="Image 3"></td>
   </tr>
   <tr>
     <td align="center">2023 - Present</td>
