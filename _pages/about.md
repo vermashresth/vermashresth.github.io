@@ -14,7 +14,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a second-year PhD student at Harvard University advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). I'm interested in reinforcement learning and multi-agent systems for planning and optimization with applications in public health and environmental conservation. My current work focuses on 
+I am a second-year PhD student at Harvard University advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). I'm interested in <span style="color: red;">reinforcement learning and multi-agent systems</span>  for planning and optimization with applications in public health and environmental conservation. My current work focuses on 
 - _Sequential resource allocation_ in uncertain environments with fairness guarantees
 - _Decision-Focused Learning_, a paradigm for tailoring a predictive model for a downstream optimization task that uses its predictions.
 - _LLMs for planning tasks_, accelerating workflow of human experts
