@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on field study of Decision Focused Learning has been accepted at AAMAS! 
+Our work on field study of Decision Focused Learning has been accepted at **AAMAS 2023**! 
