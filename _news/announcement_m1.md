@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on index for sequential resource allocation in non-markovian environments is accepted at IJCAI!
+Our work on developing an index for sequential resource allocation in non-markovian environments is accepted at **IJCAI 2023**!
