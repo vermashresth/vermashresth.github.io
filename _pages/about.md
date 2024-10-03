@@ -15,9 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a second-year PhD student at Harvard University advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). I'm interested in <span style="color: #c1121f;">reinforcement learning and multi-agent systems for planning and optimization with applications in public health. </span> My current work focuses on 
-- <span style="color: #c1121f;">Fair and robust algorithms for sequential resource allocation <\span> in uncertain environments.
-- <span style="color: #c1121f;">Decision-Focused Learning<\span>, a paradigm for tailoring a predictive model for a downstream optimization task that uses its predictions.
-- Transparency and alignment in <span style="color: #c1121f;">LLMs for planning tasks<\span>, augmenting experts in resource-constrained settings.
+- <span style="color: #c1121f;">Fair and robust algorithms for sequential resource allocation </span> in uncertain environments.
+- <span style="color: #c1121f;">Decision-Focused Learning</span>, a paradigm for tailoring a predictive model for a downstream optimization task that uses its predictions.
+- Transparency and alignment in <span style="color: #c1121f;">LLMs for planning tasks</span>, augmenting experts in resource-constrained settings.
 
 Previously, I spent two wonderful years at [Google Research India](https://research.google/locations/india/), working in the [AI for Social Good lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) where I was grateful to be advised by [Dr. Aparna Taneja](https://research.google/people/aparna-taneja/). I developed robust bandit algorithms for planning targeted health interventions which in turn improve health literacy and medical adherence in underserved communities in India. 
 
