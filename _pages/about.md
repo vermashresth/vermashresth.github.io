@@ -15,11 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a third-year PhD student at Harvard University advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe) with research interests in **Large Language Models (LLMs) for Code Generation** and **Robust Fine-Tuning of LLMs**. My work is motivated by the theme of using **LLMs for complex decision-making tasks** that require them to
-1. generate and optimise code for problems specified in natural language by non-domain experts [Decision LM](https://proceedings.neurips.cc/paper_files/paper/2024/hash/074f42212be2c8ee651db00f17965ec4-Abstract-Conference.html)
-2. perform self-reflection, evolutionary search, and reasoning to produce high-quality code in real time [Priority2Reward](https://ojs.aaai.org/index.php/AAAI/article/view/35375)
-3. provide safety guarantees when handling complex, multi-objective priorities [Portfolios](https://icml.cc/virtual/2025/poster/46651), [Social Choice LM](https://arxiv.org/abs/2408.12112)
-4. exhibit distributional robustness to noisy preferences during fine-tuning on offline data [Preference-Robust DPO](https://arxiv.org/abs/2509.02709)
-5. collaborate effectively with humans through multi-turn dialogues to reach efficient and reliable resolutions
 
 Through this research, I aim to develop decision agents that democratise access to advanced analytical and optimisation tools, empowering non-experts to address AI for Social Impact challenges more effectively
 
