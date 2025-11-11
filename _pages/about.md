@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a third-year PhD student at Harvard University advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe) with research interests in Reinforcement Learning and LLMs for complex decision-making tasks. My work focuses on  
-- Enhancing code generation by LLMs through inference-time reasoning methods
+- Enhancing code generation by LLMs through inference-time reasoning
 - LLM fine-tuning techniques that are robust to noisy human preferences
 - Safe mechanisms for balancing tradeoffs in multi-objective preferences
 - Enabling multi-turn, goal-oriented dialogues with LLMs
