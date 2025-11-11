@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-11-24
+date: 2024-11-03
 inline: true
 related_posts: false
 ---
 
-Our demo on [LLMs for Reinforcement Learning Code Generation](https://ojs.aaai.org/index.php/AAAI/article/view/35375) has been accepted at **AAAI 2025**.
+I will be presenting a demo on [LLMs for Reinforcement Learning Code Generation](https://ojs.aaai.org/index.php/AAAI/article/view/35375) at **AAAI 2025**. See you in Philly!
