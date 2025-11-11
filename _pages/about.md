@@ -14,9 +14,12 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a third-year PhD student at Harvard University advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe) with research interests in **Large Language Models (LLMs) for Code Generation** and **Robust Fine-Tuning of LLMs**. My work is motivated by the theme of using **LLMs for complex decision-making tasks** that require them to
+I am a third-year PhD student at Harvard University advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe) with research interests in Reinforcement Learning and LLMs for complex decision-making tasks. My work focuses on  
+- Enhancing code generation by LLMs through inference-time reasoning methods
+- LLM fine-tuning techniques that are robust to noisy human preferences
+- Safe mechanisms for balancing tradeoffs in multi-objective preferences
+- Enabling multi-turn, goal-oriented dialogues with LLMs
 
-Through this research, I aim to develop decision agents that democratise access to advanced analytical and optimisation tools, empowering non-experts to address AI for Social Impact challenges more effectively
 
 Previously, I spent two wonderful years at [Google Research India](https://research.google/locations/india/), working in the [AI for Social Good lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) where I was grateful to be advised by [Dr. Aparna Taneja](https://research.google/people/aparna-taneja/). I developed and deployed robust bandit algorithms to plan targeted mobile health interventions for more than 100K beneficiaries from underserved communities in India.
 
