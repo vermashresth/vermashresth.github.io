@@ -30,6 +30,9 @@ Before that, I was a Data Scientist at [United Health Group](https://www.unitedh
   <table cellpadding="0" cellspacing="0" style="margin: 0 auto; padding: 0; border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: none;">
+        <img src="/assets/img/amazon-science-logo.png" style="width: 180px;" alt="Amazon Science">
+      </td>
+      <td align="center" style="border: none;">
         <img src="/assets/img/Harvard_University_shield.png" style="width: 100px;" alt="Harvard University">
       </td>
       <td align="center" style="border: none;">
@@ -40,6 +43,7 @@ Before that, I was a Data Scientist at [United Health Group](https://www.unitedh
       </td>
     </tr>
     <tr>
+      <td align="center" style="border: none;">Summer 2026</td>
       <td align="center" style="border: none;">2023 - Present</td>
       <td align="center" style="border: none;">2021 - 2023</td>
       <td align="center" style="border: none;">2020 - 2021</td>
