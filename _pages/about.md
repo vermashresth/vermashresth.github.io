@@ -30,7 +30,7 @@ Before that, I was a Data Scientist at [United Health Group](https://www.unitedh
   <table cellpadding="0" cellspacing="0" style="margin: 0 auto; padding: 0; border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="/assets/img/amazon-science-logo.png" style="width: 180px;" alt="Amazon Science">
+        <img src="/assets/img/amazon-science-logo.svg" style="width: 200px;" alt="Amazon Science">
       </td>
       <td align="center" style="border: none;">
         <img src="/assets/img/Harvard_University_shield.png" style="width: 100px;" alt="Harvard University">
