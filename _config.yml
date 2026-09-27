@@ -8,11 +8,11 @@ middle_name:
 last_name: Verma
 email: sverma at g dot harvard dot edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Shresth Verma — PhD student at Harvard working on LLM post-training, synthetic data, and sequential decision making.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Shresth Verma, Milind Tambe, AI for Social Good, AI for Public Health, Reinforcement Learning, Multi-Agent Systems, Restless Bandits
+keywords: Shresth Verma, Milind Tambe, LLM Post-Training, LLM Alignment, Synthetic Data, Multi-Turn RL, AI for Social Good, AI for Public Health, Reinforcement Learning, Multi-Agent Systems, Restless Bandits
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -73,7 +73,7 @@ x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: vermashresth
 telegram_username: # your Telegram user name
-scholar_userid: #
+scholar_userid: XZQSq2sAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -122,7 +122,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Shresth Verma # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
