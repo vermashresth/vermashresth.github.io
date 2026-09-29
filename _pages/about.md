@@ -22,33 +22,35 @@ I am a fourth-year PhD student at Harvard University advised by [Prof. Milind Ta
 
 In Summer 2026, I was an Applied Scientist Intern at [Amazon Science](https://www.amazon.science/), where I worked on identifying LLM-agent and traditional bot traffic streams on retail websites.
 
-Previously, I spent two wonderful years at Google DeepMind (formerly [Google Research India](https://research.google/locations/india/)), working in the [AI for Social Good lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) where I was grateful to be advised by [Dr. Aparna Taneja](https://research.google/people/aparna-taneja/). I developed and deployed robust bandit algorithms to plan targeted mobile health interventions for more than 100K beneficiaries from underserved communities in India.
+Previously, I spent two wonderful years at [Google Research India](https://research.google/locations/india/), working in the [AI for Social Good lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) where I was grateful to be advised by [Dr. Aparna Taneja](https://research.google/people/aparna-taneja/). I developed and deployed robust bandit algorithms to plan targeted mobile health interventions for more than 100K beneficiaries from underserved communities in India.
 
 Before that, I was a Data Scientist at [United Health Group](https://www.unitedhealthgroup.com/people-and-businesses/businesses/optum.html) where I worked in the Chief Medical Officer's team for modelling readmission risks for millions of beneficiaries. I also worked with data from the world’s [largest healthcare graph database](https://info.tigergraph.com/keynote-edward-sverdlin), designing graph-based analytics and tools to model and interpret patients’ longitudinal wellness journeys. 
 
 <div style="text-align: center;">
   <table cellpadding="0" cellspacing="0" style="margin: 0 auto; padding: 0; border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" style="border: none;">
-        <img src="/assets/img/amazon-science-logo.svg" style="width: 200px;" alt="Amazon Science">
+      <td align="center" style="border: none; padding: 0 10px;">
+        <img src="/assets/img/Harvard_University_shield.png" style="width: 90px;" alt="Harvard University">
       </td>
-      <td align="center" style="border: none;">
-        <img src="/assets/img/Harvard_University_shield.png" style="width: 100px;" alt="Harvard University">
+      <td align="center" style="border: none; padding: 0 10px;">
+        <img src="/assets/img/amazon-science-logo.png" style="width: 170px;" alt="Amazon Science">
       </td>
-      <td align="center" style="border: none;">
-        <img src="/assets/img/google-logo.png" style="width: 220px;" alt="Google DeepMind">
+      <td align="center" style="border: none; padding: 0 10px;">
+        <img src="/assets/img/alan-turing-institute-logo.svg" style="width: 130px;" alt="The Alan Turing Institute">
       </td>
-      <td align="center" style="border: none;">
-        <img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 180px;" alt="UnitedHealth Group">
+      <td align="center" style="border: none; padding: 0 10px;">
+        <img src="/assets/img/google-logo.png" style="width: 180px;" alt="Google Research">
+      </td>
+      <td align="center" style="border: none; padding: 0 10px;">
+        <img src="/assets/img/UnitedHealth-Group-Logo.png" style="width: 150px;" alt="UnitedHealth Group">
       </td>
     </tr>
     <tr>
-      <td align="center" style="border: none;">Summer 2026</td>
-      <td align="center" style="border: none;">2023 - Present</td>
-      <td align="center" style="border: none;">2021 - 2023</td>
-      <td align="center" style="border: none;">2020 - 2021</td>
+      <td align="center" style="border: none; padding: 0 10px;">2023 - Present</td>
+      <td align="center" style="border: none; padding: 0 10px;">Summer 2026</td>
+      <td align="center" style="border: none; padding: 0 10px;">Summer 2024</td>
+      <td align="center" style="border: none; padding: 0 10px;">2021 - 2023</td>
+      <td align="center" style="border: none; padding: 0 10px;">2020 - 2021</td>
     </tr>
   </table>
 </div>
-
-
