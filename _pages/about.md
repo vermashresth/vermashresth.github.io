@@ -14,11 +14,14 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a fourth-year PhD student at Harvard University advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe), working on LLM post-training and alignment, robust learning from synthetic data, and LLMs for public health. My recent work focuses on
+I am a fourth-year PhD student at Harvard University advised by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe), working on LLM post-training. My research focuses on fine-tuning LLMs for multi-turn interaction and tool use, synthetic data generation, and coding agents for optimization problems. My recent work includes
 - Synthetic data selection for multi-turn LLM fine-tuning
 - Preference-robust post-training of LLMs
 - Balancing tradeoffs in multi-objective preference alignment
-- Using LLMs to design resource allocation policies in public health
+
+I work on LLM post-training (SFT, RL, DPO), multi-turn RL, preference optimization, inference-time verification, and sequential decision-making.
+
+**I am on the job market for full-time research scientist / applied scientist roles. If you think I'd be a good fit for your team, please [reach out](mailto:{{ 'sverma@g.harvard.edu' | encode_email }})!**
 
 In Summer 2026, I was an Applied Scientist Intern at [Amazon Science](https://www.amazon.science/), where I worked on identifying LLM-agent and traditional bot traffic streams on retail websites.
 
